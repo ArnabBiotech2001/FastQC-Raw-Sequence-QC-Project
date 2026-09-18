@@ -16,6 +16,6 @@ A bioinformatics project focused on assessing the quality of raw sequencing data
 
 ### Workflow
 
-**Raw FASTQ → FastQC → MultiQC → Quality Assessment → Trimming (if required) → Final QC**
+**Raw FASTQ → FastQC → MultiQC → Quality Assessment → Trimming  → Final QC**
 
 **Status:** In Progress
